@@ -120,6 +120,9 @@ img {
     .checkbox-btn {
       display: none;
     }
+    label{
+      display: block;
+    }
     .card {
       text-align: left;
       padding: 20px;
@@ -138,6 +141,7 @@ img {
         font-size: 20px;
         margin-top: 19px;
         color: $mainColor;
+        height: 50px;
       }
       .card-text {
         font-size: 16px;
